@@ -7,6 +7,8 @@
 <br>
 🚀 AWS User Group Líder no <a href="https://www.meetup.com/pt-BR/awsusergroupmg/"> AWS User Group MG </a>
 <br>
+🌺 Co-founder do <a href="https://www.linkedin.com/company/mulheres-na-nuvem-mg"> Mulheres na Nuvem - MG </a>
+<br>
 ☁️ Escrevo uns trem sobre cloud, AWS, tecnologias no <a href="https://medium.com/@shescloud_"> Medium </a>
 <br>
 💖 Pronouns: ela/dela
