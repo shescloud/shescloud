@@ -14,10 +14,7 @@
 💖 Pronouns: ela/dela
 <br>
 </samp>
-<div>  
-  <a href="beacons.ai/shescloud_"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shescloud&layout=compact&langs_count=16&theme=dracula"/> 
-</div>
+
 <hr>
 <div>
   A gente pode prosear sobre tecnologia, AWS, nuvem e cavaleiros do Zodíaco em qualquer uma dessas redes: 
