@@ -1,5 +1,5 @@
 # [Oi, Hello, Hola!] [Eu sou a Paloma Lataliza - Shescloud]  👋👋👋 
-<a href="beacons.ai/shescloud_"><img align="left" width="30%" src="https://images-dir.s3.us-west-2.amazonaws.com/paloma.png"></a>
+<a href="beacons.ai/shescloud_"><img align="left" width="30%" src="https://images-dir.s3.us-west-2.amazonaws.com/paloma-2.png"></a>
 <samp>
 👩🏼‍💻 Sou uma Cloud Engineer na Claro Brasil
 <br>
