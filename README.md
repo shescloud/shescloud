@@ -13,8 +13,7 @@
 <br>
 💖 Pronouns: ela/dela
 <br>
-<br>
-👾 Faço pixelArt sobre cloud e você pode <a href="https://www.shescloud.me"> VÊ-LOS AQUI </a>
+👾 Também faço uns pixelArt's sobre cloud e você pode vê-los <a href="https://www.shescloud.me"> clicando aqui </a>
 <br>
 </samp>
 
