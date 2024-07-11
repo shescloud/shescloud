@@ -3,7 +3,7 @@
 <samp>
 👩🏼‍💻 Sou uma Cloud Engineer na Claro Brasil
 <br>
-🚀 AWS Community Builder
+🚀 AWS Community Hero
 <br>
 🚀 AWS User Group Líder no <a href="https://www.meetup.com/pt-BR/awsusergroupmg/"> AWS User Group MG </a>
 <br>
